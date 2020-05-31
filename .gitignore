@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+=======
+themes/
+public/
+>>>>>>> dd9b570eb81ba8c100220db75547617081b634fe
